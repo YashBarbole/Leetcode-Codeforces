@@ -28,7 +28,7 @@ public class Favorite_Sequence {
             StringBuilder sb= new StringBuilder();
             for(long x:a){
                 sb.append(x).append(" ");
-            }
+            }//yash
             System.out.println(sb.toString().trim());
         }
     }
