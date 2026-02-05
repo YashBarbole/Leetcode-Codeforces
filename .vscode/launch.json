@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LLtoArray",
+      "request": "launch",
+      "mainClass": "LinkedList.LLtoArray",
+      "projectName": "SOLUTIONS_1d8541de"
+    },
+    {
+      "type": "java",
       "name": "length_of_last_word",
       "request": "launch",
       "mainClass": "stringsfinal.length_of_last_word",
